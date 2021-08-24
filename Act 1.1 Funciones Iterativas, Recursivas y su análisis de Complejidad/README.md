@@ -2,10 +2,16 @@
 
 **Análisis de complejidad temporal**
 
-el algoritmo recorre n pasos ya que usa un ciclo que va i = 1 hatsa n, por los que su complejidad es O(n*n) para el peor de los casos.
+La complejida del algoritmo es lineal en el peor de los casos, o O(n); porque solamente recorre un for loop aumentando de uno en uno.
 
 #suma Recursiva
 
 **Análisis de complejidad temporal**
 
-El algoritmo se manda a llamar así mismo n veces, por los que su complejidad es O(n*n*n) para el peor de los casos.
+La complejida del algoritmo es lineal en el peor de los casos, o O(n); porque solo va creando una recursión a la vez. Osea, no se ramifican las recursiones.
+
+#suma directa
+
+**Análisis de complejidad temporal**
+
+La complejida del algoritmo es constante O(1) y la más rápida de las tres funciones. Esto es porque solo realiza una operación y es independiente al tamaño del número que se le pasa como parámetro.
