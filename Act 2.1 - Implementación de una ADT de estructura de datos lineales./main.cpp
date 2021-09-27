@@ -1,8 +1,9 @@
 /*
  * main.cpp
  *
- *  Created on: 10/08/2020
- *      Author: bvaldesa
+ *  Created on: 20/09/2021
+ *      Author: Carlos Davalos 
+ *              A01706041
  */
 #include <iostream>
 #include <sstream>
@@ -14,12 +15,10 @@ using namespace std;
 
 
 /* Agregar un metodo toString a su clase.h
-
 template <class T>
 std::string List<T>::toString() const {
 	std::stringstream aux;
 	Link<T> *p;
-
 	p = head;
 	aux << "[";
 	while (p != 0) {
