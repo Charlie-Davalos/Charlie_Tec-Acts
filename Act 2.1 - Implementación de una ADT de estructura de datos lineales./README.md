@@ -1,6 +1,10 @@
+Este codigo fue probado en el editor de texto en linea Replit.
+
 Análisis de complejidad de los algoritmos
 Función: add(T val)
+
 Análisis de complejidad temporal
+
 Para agregar un nuevo elemento a la lista, es necesario que primero recorra todos los elementos ya existentes. Es por esto que tienen una complejidad O(n).
 
 Función: find(T val)
