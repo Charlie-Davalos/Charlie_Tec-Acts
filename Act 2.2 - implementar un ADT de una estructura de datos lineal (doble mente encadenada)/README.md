@@ -20,4 +20,4 @@ Ocurre lo mismo que con la función find(), en caso de que el elemento a modific
 Función: remove(int index)
 Análisis de complejidad temporal
 
-De igual manera, para eliminar un elemento, tiene que recorrer todos los nodos anteriores a ese. En el peor de los casos, tendría que recorrer toda la lista, la complejidad para este caso sería O(n).
+De igual manera, para eliminar un elemento, tiene que recorrer todos los nodos anteriores a ese. En el peor de los casos, tendría que recorrer toda la lista, la complejidad para este caso sería O(n)
