@@ -1,8 +1,9 @@
 /*
  * main.cpp
  *
- *  Created on: 10/08/2020
- *      Author: bvaldesa
+ *  Created on 30/09/2021
+ *      Author: Carlos Davalos
+ *              A01706041
  */
 
 #include <iostream>
@@ -10,50 +11,6 @@
 #include <cstring>
 #include <string>
 #include "dlist.h"
-
-/*
-
-	// Incluye estos funciones en tu dlist.h para poder imprimir tus respuestas
-	// en formatos compatibles con el main
-
-	template <class T>
-	std::string DList<T>::toStringForward() const {
-		std::stringstream aux;
-		DLink<T> *p;
-
-		p = head;
-		aux << "[";
-		while (p != 0) {
-			aux << p->value;
-			if (p->next != 0) {
-				aux << ", ";
-			}
-			p = p->next;
-		}
-		aux << "]";
-		return aux.str();
-	}
-
-	template <class T>
-	std::string DList<T>::toStringBackward() const {
-		std::stringstream aux;
-		DLink<T> *p;
-
-		p = tail;
-		aux << "[";
-		while (p != 0) {
-			aux << p->value;
-			if (p->previous != 0) {
-				aux << ", ";
-			}
-			p = p->previous;
-		}
-		aux << "]";
-		return aux.str();
-	}
-*/
-
-
 
 using namespace std;
 
