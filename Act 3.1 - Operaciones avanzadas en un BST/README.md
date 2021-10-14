@@ -1,17 +1,7 @@
 # Binary Search Tree
 
-
-## Ejecución del programa
-El programa se probó en el editor de texto en línea, Repl.it
-Para compilar en Linux el programa, corra el siguiente comando en la terminal:
 ~~~
-clang++-7 -pthread -std=c++17 -o main main.cpp
-~~~
-Y para ejecutar el programa:
-~~~
-./main
-~~~
-
+Este codigo fue comprobado en el editor de texto online Re.plit
 ## Análisis de complejidad de los algoritmos
 ### Función: visit()
 #### Análisis de complejidad temporal
