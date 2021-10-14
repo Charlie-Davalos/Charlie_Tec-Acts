@@ -1,6 +1,6 @@
 # Binary Search Tree
 
-~~~
+
 Este codigo fue comprobado en el editor de texto online Re.plit
 ## Análisis de complejidad de los algoritmos
 ### Función: visit()
