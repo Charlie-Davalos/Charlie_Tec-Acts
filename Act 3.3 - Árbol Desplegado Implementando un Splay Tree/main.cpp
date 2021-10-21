@@ -1,79 +1,13 @@
 /*
- * main.cpp
  *
- *  Created on: 30/10/2020
- *      Author: clase
+ *  Created on: 21/10/2021
+ *      Author: Carlos Davalos 
  */
+
 
 #include <iostream>
 #include <cstring>
 #include "splay.h"
-
-/*
-template <class T>
-void Node<T>::print_tree(std::stringstream &aux) const {
-	if (parent != 0){
-		aux << "\n node " << value;
-		aux << " parent " << parent->value;
-	}else
-		aux << "\n root " << value;
-	if (left != 0)
-		aux << " left " << left->value;
-	if (right != 0)
-		aux << " right " << right->value;
-	aux << "\n";
-
-	if (left != 0) {
-		left->print_tree(aux);
-	}
-	if (right != 0) {
-		right->print_tree(aux);
-	}
-}
-
-template <class T>
-void Node<T>::preorder(std::stringstream &aux) const {
-	aux << value;
-	if (left != 0) {
-		aux << " ";
-		left->preorder(aux);
-	}
-	if (right != 0) {
-		aux << " ";
-		right->preorder(aux);
-	}
-}
-
-template <class T>
-void Node<T>::inorder(std::stringstream &aux) const {
-	if (left != 0) {
-		left->inorder(aux);
-	}
-	if (aux.tellp() != 1) {
-		aux << " ";
-	}
-	aux << value;
-	if (right != 0) {
-		right->inorder(aux);
-	}
-}
-
-template <class T>
-void Node<T>::preorder(std::stringstream &aux) const {
-	aux << value;
-	if (left != 0) {
-		aux << " ";
-		left->preorder(aux);
-	}
-	if (right != 0) {
-		aux << " ";
-		right->preorder(aux);
-	}
-}
-
-*/
-
-
 
 using namespace std;
 
