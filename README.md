@@ -1,2 +1,7 @@
 # Charlie_Tec-Acts
-Aqui van todas las actividades programación 
+
+# Correcciones en actividades
+ ### Act 3.2 - Arbol Heap
+ 
+ ### Act 3.1 - Operaciones avanzadas en un BST
+  
