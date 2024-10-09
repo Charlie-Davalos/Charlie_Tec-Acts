@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Monica Ayala, a full-stack web developer</h2>
+<h2 align="left">CharlieDev</h2>
 <p>I love learning new technologies for web development and coding in general, I am currently working on learning Three.js and GraphQL. I am also passionate about managing software projects, agile methodologies and improving operational processes through automatization.</p>
 
 <img align="right" height="150" src="https://media.tenor.com/2aSuT7p_a_UAAAAi/peachcat-cat.gif"  />
@@ -41,7 +41,7 @@
   <a href="mayalam2806@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="[https://www.linkedin.com/in/monica-ayala-marrero/](https://www.facebook.com/profile.php?id=100059921707143)" target="_blank">
+  <a href="(https://www.facebook.com/profile.php?id=100059921707143)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
  
